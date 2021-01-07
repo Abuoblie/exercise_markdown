@@ -14,11 +14,11 @@
 ## h2 header> 
 ###### header 6 
 ## static image
-...![Hakunamata](https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/14885639_web1_M-Lion-King-edh-181223.jpg)
-[GitHub](http://github.com)..
-...![Hakunamata](http://www.clipartsmania.com/gif/animals_gif/cartoon_birds_blue_flying_animation_clipart.gif)...
+![Hakunamata](https://2qibqm39xjt6q46gf1rwo2g1-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/14885639_web1_M-Lion-King-edh-181223.jpg)
+[GitHub](http://github.com)
+![animmation](http://www.clipartsmania.com/gif/animals_gif/cartoon_birds_blue_flying_animation_clipart.gif)
 
-...<script type="text/javascript">
+<script type="text/javascript">
     var a = prompt("what is your name");
     alert("welcome"+""+ a);
-</script>...
+</script>
