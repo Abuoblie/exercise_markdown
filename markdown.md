@@ -1,1 +1,1 @@
-[Readme](https://github.com/Abuoblie/exercise_markdown/blob/main/Readme.md)
+[README](https://github.com/Abuoblie/exercise_markdown/blob/main/README.md)
